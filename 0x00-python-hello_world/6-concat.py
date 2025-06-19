@@ -2,5 +2,5 @@
 str1 = "Welcome to"
 str2 = "ALX!"
 str1 = str1 + " " + str2
-print(f"str1") 
+print (str1) 
 
